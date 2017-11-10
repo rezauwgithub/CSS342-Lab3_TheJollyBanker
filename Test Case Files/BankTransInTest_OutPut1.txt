@@ -1,0 +1,1759 @@
+ERROR: Not enough funds to withdraw 600 from Shayan Raouf Prime Money Market
+ERROR: Not enough funds to withdraw 600 from Shayan Raouf 500 Index Fund
+ERROR: Not enough funds to withdraw 600 from Shayan Raouf Capital Value Fund
+ERROR: Not enough funds to withdraw 600 from Shayan Raouf Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Prime Money Market
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Long-Term Bond
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Capital Value Fund
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Growth Equity Fund
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Value Fund
+ERROR: Not enough funds to withdraw 600 from Josh Trygg Value Stock Index
+ERROR: Not enough funds to withdraw 600 from Kevin Roger 500 Index Fund
+ERROR: Not enough funds to withdraw 600 from Kevin Roger Capital Value Fund
+ERROR: Not enough funds to withdraw 600 from Kevin Roger Growth Equity Fund
+ERROR: Not enough funds to withdraw 600 from Kevin Roger Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Kevin Roger Value Stock Index
+ERROR: Not enough funds to withdraw 600 from Gabby Nikolova Money Market
+ERROR: Not enough funds to withdraw 600 from Gabby Nikolova Prime Money Mark
+ERROR: Not enough funds to withdraw 600 from Gabby Nikolova Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Gabby Nikolova Growth Equity Fu
+ERROR: Not enough funds to withdraw 600 from Gabby Nikolova Growth Index Fun
+ERROR: Not enough funds to withdraw 600 from Kyle Alfke Money Market
+ERROR: Not enough funds to withdraw 600 from Kyle Alfke Prime Money Market
+ERROR: Not enough funds to withdraw 600 from Kyle Alfke Growth Equity Fund
+ERROR: Not enough funds to withdraw 600 from Kyle Alfke Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Kyle Alfke Value Fund
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Prime Money Market
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Capital Value Fund
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Growth Equity Fund
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Ben Rogojon Value Fund
+ERROR: Not enough funds to withdraw 600 from Widad Machmouchi 500 Index Fund
+ERROR: Not enough funds to withdraw 600 from Widad Machmouchi Value Fund
+ERROR: Not enough funds to withdraw 600 from Widad Machmouchi Value Stock In
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber 500 Index Fund
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber Capital Value Fun
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber Growth Equity Fun
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Rayyan Jabber Value Stock Index
+ERROR: Not enough funds to withdraw 600 from Omar Halabieh Prime Money Marke
+ERROR: Not enough funds to withdraw 600 from Omar Halabieh Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Omar Halabieh 500 Index Fund
+ERROR: Not enough funds to withdraw 600 from Omar Halabieh Value Fund
+ERROR: Not enough funds to withdraw 600 from Omar Halabieh Value Stock Index
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Money Market
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Prime Money Marke
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Short-Term Bond
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Growth Index Fund
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Value Fund
+ERROR: Not enough funds to withdraw 600 from Shirley Quach Value Stock Index
+ERROR: Account 5643 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 9877 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 6733 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 5589 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 2222 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 5555 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 7790 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 1134 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 3819 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 2333 Cannot Transfer to the same Fund. Transferal refused
+ERROR: Account 5643 is already open. Transaction refused.
+ERROR: Account 9877 is already open. Transaction refused.
+ERROR: Account 6733 is already open. Transaction refused.
+ERROR: Account 5589 is already open. Transaction refused.
+ERROR: Account 2222 is already open. Transaction refused.
+ERROR: Account 5555 is already open. Transaction refused.
+ERROR: Account 7790 is already open. Transaction refused.
+ERROR: Account 1134 is already open. Transaction refused.
+ERROR: Account 3819 is already open. Transaction refused.
+ERROR: Account 2333 is already open. Transaction refused.
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 6613 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 7710 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 3333 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 4445 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 2200 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 9797 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 8834 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5597 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 5465 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+ERROR: Account 1202 not found. Withdraw refused
+Transaction History for Shayan Raouf by fund.
+Money Market: $349
+   D 56430 349
+Prime Money Market: $458
+   D 56431 458
+Long-Term Bond: $656
+   D 56432 656
+Short-Term Bond: $988
+   D 56433 988
+500 Index Fund: $555
+   D 56434 555
+Capital Value Fund: $166
+   D 56435 166
+Growth Equity Fund: $778
+   D 56436 778
+Growth Index Fund: $159
+   D 56437 159
+Value Fund: $631
+   D 56438 631
+Value Stock Index: $944
+   D 56439 944
+Transaction History for Josh Trygg by fund.
+Money Market: $398
+   D 98770 398
+Prime Money Market: $667
+   D 98771 667
+Long-Term Bond: $533
+   D 98772 533
+Short-Term Bond: $46
+   D 98773 46
+500 Index Fund: $618
+   D 98774 618
+Capital Value Fund: $2
+   D 98775 2
+Growth Equity Fund: $248
+   D 98776 248
+Growth Index Fund: $759
+   D 98777 759
+Value Fund: $237
+   D 98778 237
+Value Stock Index: $430
+   D 98779 430
+Transaction History for Kevin Roger by fund.
+Money Market: $544
+   D 67330 544
+Prime Money Market: $778
+   D 67331 778
+Long-Term Bond: $619
+   D 67332 619
+Short-Term Bond: $624
+   D 67333 624
+500 Index Fund: $164
+   D 67334 164
+Capital Value Fund: $33
+   D 67335 33
+Growth Equity Fund: $509
+   D 67336 509
+Growth Index Fund: $560
+   D 67337 560
+Value Fund: $633
+   D 67338 633
+Value Stock Index: $286
+   D 67339 286
+Transaction History for Gabby Nikolova by fund.
+Money Market: $208
+   D 55890 208
+Prime Money Market: $230
+   D 55891 230
+Long-Term Bond: $51
+   D 55892 51
+Short-Term Bond: $621
+   D 55893 621
+500 Index Fund: $932
+   D 55894 932
+Capital Value Fund: $745
+   D 55895 745
+Growth Equity Fund: $275
+   D 55896 275
+Growth Index Fund: $379
+   D 55897 379
+Value Fund: $624
+   D 55898 624
+Value Stock Index: $686
+   D 55899 686
+Transaction History for Kyle Alfke by fund.
+Money Market: $331
+   D 22220 331
+Prime Money Market: $13
+   D 22221 13
+Long-Term Bond: $493
+   D 22222 493
+Short-Term Bond: $819
+   D 22223 819
+500 Index Fund: $606
+   D 22224 606
+Capital Value Fund: $603
+   D 22225 603
+Growth Equity Fund: $8
+   D 22226 8
+Growth Index Fund: $108
+   D 22227 108
+Value Fund: $59
+   D 22228 59
+Value Stock Index: $726
+   D 22229 726
+Transaction History for Ben Rogojon by fund.
+Money Market: $339
+   D 55550 339
+Prime Money Market: $829
+   D 55551 829
+Long-Term Bond: $515
+   D 55552 515
+Short-Term Bond: $640
+   D 55553 640
+500 Index Fund: $798
+   D 55554 798
+Capital Value Fund: $489
+   D 55555 489
+Growth Equity Fund: $304
+   D 55556 304
+Growth Index Fund: $411
+   D 55557 411
+Value Fund: $402
+   D 55558 402
+Value Stock Index: $899
+   D 55559 899
+Transaction History for Widad Machmouchi by fund.
+Money Market: $841
+   D 77900 841
+Prime Money Market: $494
+   D 77901 494
+Long-Term Bond: $711
+   D 77902 711
+Short-Term Bond: $948
+   D 77903 948
+500 Index Fund: $315
+   D 77904 315
+Capital Value Fund: $667
+   D 77905 667
+Growth Equity Fund: $783
+   D 77906 783
+Growth Index Fund: $876
+   D 77907 876
+Value Fund: $123
+   D 77908 123
+Value Stock Index: $556
+   D 77909 556
+Transaction History for Rayyan Jabber by fund.
+Money Market: $794
+   D 11340 794
+Prime Money Market: $772
+   D 11341 772
+Long-Term Bond: $857
+   D 11342 857
+Short-Term Bond: $103
+   D 11343 103
+500 Index Fund: $563
+   D 11344 563
+Capital Value Fund: $531
+   D 11345 531
+Growth Equity Fund: $447
+   D 11346 447
+Growth Index Fund: $439
+   D 11347 439
+Value Fund: $898
+   D 11348 898
+Value Stock Index: $167
+   D 11349 167
+Transaction History for Omar Halabieh by fund.
+Money Market: $715
+   D 38190 715
+Prime Money Market: $277
+   D 38191 277
+Long-Term Bond: $244
+   D 38192 244
+Short-Term Bond: $862
+   D 38193 862
+500 Index Fund: $464
+   D 38194 464
+Capital Value Fund: $694
+   D 38195 694
+Growth Equity Fund: $624
+   D 38196 624
+Growth Index Fund: $958
+   D 38197 958
+Value Fund: $540
+   D 38198 540
+Value Stock Index: $559
+   D 38199 559
+Transaction History for Shirley Quach by fund.
+Money Market: $123
+   D 23330 123
+Prime Money Market: $114
+   D 23331 114
+Long-Term Bond: $661
+   D 23332 661
+Short-Term Bond: $231
+   D 23333 231
+500 Index Fund: $751
+   D 23334 751
+Capital Value Fund: $918
+   D 23335 918
+Growth Equity Fund: $853
+   D 23336 853
+Growth Index Fund: $188
+   D 23337 188
+Value Fund: $159
+   D 23338 159
+Value Stock Index: $181
+   D 23339 181
+Transaction History for Shayan Raouf by fund.
+Money Market: $0
+   D 56430 349
+   W 56430 349
+Prime Money Market: $207
+   D 56431 458
+   W 56430 251
+Long-Term Bond: $56
+   D 56432 656
+   W 56432 600
+Short-Term Bond: $388
+   D 56433 988
+   W 56433 600
+500 Index Fund: $555
+   D 56434 555
+   W 56434 600 (Failed)
+Capital Value Fund: $166
+   D 56435 166
+   W 56435 600 (Failed)
+Growth Equity Fund: $178
+   D 56436 778
+   W 56436 600
+Growth Index Fund: $159
+   D 56437 159
+   W 56437 600 (Failed)
+Value Fund: $31
+   D 56438 631
+   W 56438 600
+Value Stock Index: $344
+   D 56439 944
+   W 56439 600
+Transaction History for Josh Trygg by fund.
+Money Market: $0
+   D 98770 398
+   W 98770 398
+Prime Money Market: $465
+   D 98771 667
+   W 98770 202
+Long-Term Bond: $533
+   D 98772 533
+Short-Term Bond: $46
+   D 98773 46
+500 Index Fund: $18
+   D 98774 618
+   W 98774 600
+Capital Value Fund: $2
+   D 98775 2
+   W 98775 600 (Failed)
+Growth Equity Fund: $248
+   D 98776 248
+   W 98776 600 (Failed)
+Growth Index Fund: $159
+   D 98777 759
+   W 98777 600
+Value Fund: $237
+   D 98778 237
+   W 98778 600 (Failed)
+Value Stock Index: $430
+   D 98779 430
+   W 98779 600 (Failed)
+Transaction History for Kevin Roger by fund.
+Money Market: $0
+   D 67330 544
+   W 67330 544
+Prime Money Market: $122
+   D 67331 778
+   W 67330 56
+   W 67331 600
+Long-Term Bond: $19
+   D 67332 619
+   W 67332 600
+Short-Term Bond: $24
+   D 67333 624
+   W 67333 600
+500 Index Fund: $164
+   D 67334 164
+   W 67334 600 (Failed)
+Capital Value Fund: $33
+   D 67335 33
+   W 67335 600 (Failed)
+Growth Equity Fund: $509
+   D 67336 509
+   W 67336 600 (Failed)
+Growth Index Fund: $560
+   D 67337 560
+   W 67337 600 (Failed)
+Value Fund: $33
+   D 67338 633
+   W 67338 600
+Value Stock Index: $286
+   D 67339 286
+   W 67339 600 (Failed)
+Transaction History for Gabby Nikolova by fund.
+Money Market: $208
+   D 55890 208
+Prime Money Market: $230
+   D 55891 230
+Long-Term Bond: $0
+   D 55892 51
+   W 55892 51
+Short-Term Bond: $72
+   D 55893 621
+   W 55892 549
+500 Index Fund: $332
+   D 55894 932
+   W 55894 600
+Capital Value Fund: $145
+   D 55895 745
+   W 55895 600
+Growth Equity Fund: $275
+   D 55896 275
+   W 55896 600 (Failed)
+Growth Index Fund: $379
+   D 55897 379
+   W 55897 600 (Failed)
+Value Fund: $24
+   D 55898 624
+   W 55898 600
+Value Stock Index: $86
+   D 55899 686
+   W 55899 600
+Transaction History for Kyle Alfke by fund.
+Money Market: $331
+   D 22220 331
+Prime Money Market: $13
+   D 22221 13
+Long-Term Bond: $0
+   D 22222 493
+   W 22222 493
+Short-Term Bond: $112
+   D 22223 819
+   W 22222 107
+   W 22223 600
+500 Index Fund: $6
+   D 22224 606
+   W 22224 600
+Capital Value Fund: $3
+   D 22225 603
+   W 22225 600
+Growth Equity Fund: $8
+   D 22226 8
+   W 22226 600 (Failed)
+Growth Index Fund: $108
+   D 22227 108
+   W 22227 600 (Failed)
+Value Fund: $59
+   D 22228 59
+   W 22228 600 (Failed)
+Value Stock Index: $126
+   D 22229 726
+   W 22229 600
+Transaction History for Ben Rogojon by fund.
+Money Market: $0
+   D 55550 339
+   W 55550 339
+Prime Money Market: $568
+   D 55551 829
+   W 55550 261
+Long-Term Bond: $0
+   D 55552 515
+   W 55552 515
+Short-Term Bond: $555
+   D 55553 640
+   W 55552 85
+500 Index Fund: $198
+   D 55554 798
+   W 55554 600
+Capital Value Fund: $489
+   D 55555 489
+   W 55555 600 (Failed)
+Growth Equity Fund: $304
+   D 55556 304
+   W 55556 600 (Failed)
+Growth Index Fund: $411
+   D 55557 411
+   W 55557 600 (Failed)
+Value Fund: $402
+   D 55558 402
+   W 55558 600 (Failed)
+Value Stock Index: $299
+   D 55559 899
+   W 55559 600
+Transaction History for Widad Machmouchi by fund.
+Money Market: $135
+   D 77900 841
+   W 77900 600
+   W 77901 106
+Prime Money Market: $0
+   D 77901 494
+   W 77901 494
+Long-Term Bond: $111
+   D 77902 711
+   W 77902 600
+Short-Term Bond: $348
+   D 77903 948
+   W 77903 600
+500 Index Fund: $315
+   D 77904 315
+   W 77904 600 (Failed)
+Capital Value Fund: $67
+   D 77905 667
+   W 77905 600
+Growth Equity Fund: $183
+   D 77906 783
+   W 77906 600
+Growth Index Fund: $276
+   D 77907 876
+   W 77907 600
+Value Fund: $123
+   D 77908 123
+   W 77908 600 (Failed)
+Value Stock Index: $556
+   D 77909 556
+   W 77909 600 (Failed)
+Transaction History for Rayyan Jabber by fund.
+Money Market: $194
+   D 11340 794
+   W 11340 600
+Prime Money Market: $172
+   D 11341 772
+   W 11341 600
+Long-Term Bond: $257
+   D 11342 857
+   W 11342 600
+Short-Term Bond: $103
+   D 11343 103
+500 Index Fund: $563
+   D 11344 563
+   W 11344 600 (Failed)
+Capital Value Fund: $531
+   D 11345 531
+   W 11345 600 (Failed)
+Growth Equity Fund: $447
+   D 11346 447
+   W 11346 600 (Failed)
+Growth Index Fund: $439
+   D 11347 439
+   W 11347 600 (Failed)
+Value Fund: $298
+   D 11348 898
+   W 11348 600
+Value Stock Index: $167
+   D 11349 167
+   W 11349 600 (Failed)
+Transaction History for Omar Halabieh by fund.
+Money Market: $115
+   D 38190 715
+   W 38190 600
+Prime Money Market: $277
+   D 38191 277
+Long-Term Bond: $0
+   D 38192 244
+   W 38192 244
+Short-Term Bond: $506
+   D 38193 862
+   W 38192 356
+500 Index Fund: $464
+   D 38194 464
+   W 38194 600 (Failed)
+Capital Value Fund: $94
+   D 38195 694
+   W 38195 600
+Growth Equity Fund: $24
+   D 38196 624
+   W 38196 600
+Growth Index Fund: $358
+   D 38197 958
+   W 38197 600
+Value Fund: $540
+   D 38198 540
+   W 38198 600 (Failed)
+Value Stock Index: $559
+   D 38199 559
+   W 38199 600 (Failed)
+Transaction History for Shirley Quach by fund.
+Money Market: $123
+   D 23330 123
+Prime Money Market: $114
+   D 23331 114
+Long-Term Bond: $61
+   D 23332 661
+   W 23332 600
+Short-Term Bond: $231
+   D 23333 231
+500 Index Fund: $151
+   D 23334 751
+   W 23334 600
+Capital Value Fund: $318
+   D 23335 918
+   W 23335 600
+Growth Equity Fund: $253
+   D 23336 853
+   W 23336 600
+Growth Index Fund: $188
+   D 23337 188
+   W 23337 600 (Failed)
+Value Fund: $159
+   D 23338 159
+   W 23338 600 (Failed)
+Value Stock Index: $181
+   D 23339 181
+   W 23339 600 (Failed)
+Transaction History for Shayan Raouf by fund.
+Money Market: $1380
+   D 56430 349
+   W 56430 349
+   T 98779 230 56430
+   T 67339 230 56430
+   T 55899 230 56430(Failed)
+   T 22229 230 56430(Failed)
+   T 55559 230 56430
+   T 77909 230 56430
+   T 11349 230 56430(Failed)
+   T 38199 230 56430
+   T 23339 230 56430
+Prime Money Market: $207
+   D 56431 458
+   W 56430 251
+Long-Term Bond: $0
+   D 56432 656
+   W 56432 600
+   T 56432 230 11347
+Short-Term Bond: $214
+   D 56433 988
+   W 56433 600
+   T 56432 230 11347
+500 Index Fund: $325
+   D 56434 555
+   W 56434 600 (Failed)
+   T 56434 230 55555
+Capital Value Fund: $166
+   D 56435 166
+   W 56435 600 (Failed)
+   T 56435 230 22224 (Failed)
+Growth Equity Fund: $178
+   D 56436 778
+   W 56436 600
+   T 56436 230 55893 (Failed)
+Growth Index Fund: $159
+   D 56437 159
+   W 56437 600 (Failed)
+   T 56437 230 67332 (Failed)
+Value Fund: $31
+   D 56438 631
+   W 56438 600
+   T 56438 230 98771 (Failed)
+Value Stock Index: $344
+   D 56439 944
+   W 56439 600
+Transaction History for Josh Trygg by fund.
+Money Market: $0
+   D 98770 398
+   W 98770 398
+   T 98770 230 23339
+Prime Money Market: $695
+   D 98771 667
+   W 98770 202
+   T 56438 230 98771(Failed)
+   T 98770 230 23339
+   T 98771 230 38198
+   T 67338 230 98771(Failed)
+   T 55898 230 98771(Failed)
+   T 22228 230 98771(Failed)
+   T 55558 230 98771
+   T 77908 230 98771(Failed)
+   T 11348 230 98771
+   T 38198 230 98771
+   T 23338 230 98771(Failed)
+Long-Term Bond: $119
+   D 98772 533
+   T 98772 230 11347
+   T 98773 230 77906
+Short-Term Bond: $0
+   D 98773 46
+   T 98773 230 77906
+500 Index Fund: $18
+   D 98774 618
+   W 98774 600
+   T 98774 230 55555 (Failed)
+Capital Value Fund: $2
+   D 98775 2
+   W 98775 600 (Failed)
+   T 98775 230 22224 (Failed)
+Growth Equity Fund: $18
+   D 98776 248
+   W 98776 600 (Failed)
+   T 98776 230 55893
+Growth Index Fund: $159
+   D 98777 759
+   W 98777 600
+   T 98777 230 67332 (Failed)
+Value Fund: $237
+   D 98778 237
+   W 98778 600 (Failed)
+Value Stock Index: $200
+   D 98779 430
+   W 98779 600 (Failed)
+   T 98779 230 56430
+Transaction History for Kevin Roger by fund.
+Money Market: $0
+   D 67330 544
+   W 67330 544
+Prime Money Market: $122
+   D 67331 778
+   W 67330 56
+   W 67331 600
+Long-Term Bond: $1169
+   D 67332 619
+   W 67332 600
+   T 56437 230 67332(Failed)
+   T 98777 230 67332(Failed)
+   T 55897 230 67332
+   T 22227 230 67332(Failed)
+   T 55557 230 67332
+   T 77907 230 67332
+   T 11347 230 67332
+   T 38197 230 67332
+   T 23337 230 67332(Failed)
+Short-Term Bond: $24
+   D 67333 624
+   W 67333 600
+500 Index Fund: $164
+   D 67334 164
+   W 67334 600 (Failed)
+   T 67334 230 55555 (Failed)
+Capital Value Fund: $33
+   D 67335 33
+   W 67335 600 (Failed)
+   T 67335 230 22224 (Failed)
+Growth Equity Fund: $279
+   D 67336 509
+   W 67336 600 (Failed)
+   T 67336 230 55893
+Growth Index Fund: $560
+   D 67337 560
+   W 67337 600 (Failed)
+Value Fund: $33
+   D 67338 633
+   W 67338 600
+   T 67338 230 98771 (Failed)
+Value Stock Index: $56
+   D 67339 286
+   W 67339 600 (Failed)
+   T 67339 230 56430
+Transaction History for Gabby Nikolova by fund.
+Money Market: $0
+   D 55890 208
+   T 55890 230 23339
+Prime Money Market: $208
+   D 55891 230
+   T 55890 230 23339
+Long-Term Bond: $0
+   D 55892 51
+   W 55892 51
+   T 55892 230 11347
+Short-Term Bond: $992
+   D 55893 621
+   W 55892 549
+   T 56436 230 55893(Failed)
+   T 98776 230 55893
+   T 67336 230 55893
+   T 55892 230 11347
+   T 55893 230 77906
+   T 22226 230 55893(Failed)
+   T 55556 230 55893
+   T 77906 230 55893
+   T 11346 230 55893
+   T 38196 230 55893(Failed)
+   T 23336 230 55893
+500 Index Fund: $102
+   D 55894 932
+   W 55894 600
+   T 55894 230 55555
+Capital Value Fund: $145
+   D 55895 745
+   W 55895 600
+   T 55895 230 22224 (Failed)
+Growth Equity Fund: $275
+   D 55896 275
+   W 55896 600 (Failed)
+Growth Index Fund: $149
+   D 55897 379
+   W 55897 600 (Failed)
+   T 55897 230 67332
+Value Fund: $24
+   D 55898 624
+   W 55898 600
+   T 55898 230 98771 (Failed)
+Value Stock Index: $86
+   D 55899 686
+   W 55899 600
+   T 55899 230 56430 (Failed)
+Transaction History for Kyle Alfke by fund.
+Money Market: $101
+   D 22220 331
+   T 22220 230 23339
+Prime Money Market: $13
+   D 22221 13
+Long-Term Bond: $0
+   D 22222 493
+   W 22222 493
+Short-Term Bond: $112
+   D 22223 819
+   W 22222 107
+   W 22223 600
+500 Index Fund: $696
+   D 22224 606
+   W 22224 600
+   T 56435 230 22224(Failed)
+   T 98775 230 22224(Failed)
+   T 67335 230 22224(Failed)
+   T 55895 230 22224(Failed)
+   T 22224 230 55555 (Failed)
+   T 55555 230 22224
+   T 77905 230 22224(Failed)
+   T 11345 230 22224
+   T 38195 230 22224(Failed)
+   T 23335 230 22224
+Capital Value Fund: $3
+   D 22225 603
+   W 22225 600
+Growth Equity Fund: $8
+   D 22226 8
+   W 22226 600 (Failed)
+   T 22226 230 55893 (Failed)
+Growth Index Fund: $108
+   D 22227 108
+   W 22227 600 (Failed)
+   T 22227 230 67332 (Failed)
+Value Fund: $59
+   D 22228 59
+   W 22228 600 (Failed)
+   T 22228 230 98771 (Failed)
+Value Stock Index: $126
+   D 22229 726
+   W 22229 600
+   T 22229 230 56430 (Failed)
+Transaction History for Ben Rogojon by fund.
+Money Market: $0
+   D 55550 339
+   W 55550 339
+   T 55550 230 23339
+Prime Money Market: $108
+   D 55551 829
+   W 55550 261
+   T 55550 230 23339
+   T 55551 230 38198
+Long-Term Bond: $0
+   D 55552 515
+   W 55552 515
+   T 55552 230 11347
+Short-Term Bond: $95
+   D 55553 640
+   W 55552 85
+   T 55552 230 11347
+   T 55553 230 77906
+500 Index Fund: $198
+   D 55554 798
+   W 55554 600
+Capital Value Fund: $1409
+   D 55555 489
+   W 55555 600 (Failed)
+   T 56434 230 55555
+   T 98774 230 55555(Failed)
+   T 67334 230 55555(Failed)
+   T 55894 230 55555
+   T 22224 230 55555(Failed)
+   T 55555 230 22224
+   T 77904 230 55555
+   T 11344 230 55555
+   T 38194 230 55555
+   T 23334 230 55555(Failed)
+Growth Equity Fund: $74
+   D 55556 304
+   W 55556 600 (Failed)
+   T 55556 230 55893
+Growth Index Fund: $181
+   D 55557 411
+   W 55557 600 (Failed)
+   T 55557 230 67332
+Value Fund: $172
+   D 55558 402
+   W 55558 600 (Failed)
+   T 55558 230 98771
+Value Stock Index: $69
+   D 55559 899
+   W 55559 600
+   T 55559 230 56430
+Transaction History for Widad Machmouchi by fund.
+Money Market: $135
+   D 77900 841
+   W 77900 600
+   W 77901 106
+Prime Money Market: $0
+   D 77901 494
+   W 77901 494
+Long-Term Bond: $0
+   D 77902 711
+   W 77902 600
+   T 77902 230 11347
+Short-Term Bond: $229
+   D 77903 948
+   W 77903 600
+   T 77902 230 11347
+500 Index Fund: $85
+   D 77904 315
+   W 77904 600 (Failed)
+   T 77904 230 55555
+Capital Value Fund: $67
+   D 77905 667
+   W 77905 600
+   T 77905 230 22224 (Failed)
+Growth Equity Fund: $1103
+   D 77906 783
+   W 77906 600
+   T 56433 230 77906(Failed)
+   T 98773 230 77906
+   T 67333 230 77906(Failed)
+   T 55893 230 77906
+   T 22223 230 77906(Failed)
+   T 55553 230 77906
+   T 77906 230 55893
+   T 11343 230 77906
+   T 38193 230 77906
+   T 23333 230 77906(Failed)
+Growth Index Fund: $46
+   D 77907 876
+   W 77907 600
+   T 77907 230 67332
+Value Fund: $123
+   D 77908 123
+   W 77908 600 (Failed)
+   T 77908 230 98771 (Failed)
+Value Stock Index: $326
+   D 77909 556
+   W 77909 600 (Failed)
+   T 77909 230 56430
+Transaction History for Rayyan Jabber by fund.
+Money Market: $0
+   D 11340 794
+   W 11340 600
+   T 11340 230 23339
+Prime Money Market: $136
+   D 11341 772
+   W 11341 600
+   T 11340 230 23339
+Long-Term Bond: $130
+   D 11342 857
+   W 11342 600
+   T 11343 230 77906
+Short-Term Bond: $0
+   D 11343 103
+   T 11343 230 77906
+500 Index Fund: $333
+   D 11344 563
+   W 11344 600 (Failed)
+   T 11344 230 55555
+Capital Value Fund: $301
+   D 11345 531
+   W 11345 600 (Failed)
+   T 11345 230 22224
+Growth Equity Fund: $217
+   D 11346 447
+   W 11346 600 (Failed)
+   T 11346 230 55893
+Growth Index Fund: $1819
+   D 11347 439
+   W 11347 600 (Failed)
+   T 56432 230 11347
+   T 98772 230 11347
+   T 67332 230 11347(Failed)
+   T 55892 230 11347
+   T 22222 230 11347(Failed)
+   T 55552 230 11347
+   T 77902 230 11347
+   T 11347 230 67332
+   T 38192 230 11347
+   T 23332 230 11347
+Value Fund: $68
+   D 11348 898
+   W 11348 600
+   T 11348 230 98771
+Value Stock Index: $167
+   D 11349 167
+   W 11349 600 (Failed)
+   T 11349 230 56430 (Failed)
+Transaction History for Omar Halabieh by fund.
+Money Market: $0
+   D 38190 715
+   W 38190 600
+   T 38190 230 23339
+Prime Money Market: $162
+   D 38191 277
+   T 38190 230 23339
+Long-Term Bond: $0
+   D 38192 244
+   W 38192 244
+   T 38192 230 11347
+Short-Term Bond: $46
+   D 38193 862
+   W 38192 356
+   T 38192 230 11347
+   T 38193 230 77906
+500 Index Fund: $234
+   D 38194 464
+   W 38194 600 (Failed)
+   T 38194 230 55555
+Capital Value Fund: $94
+   D 38195 694
+   W 38195 600
+   T 38195 230 22224 (Failed)
+Growth Equity Fund: $24
+   D 38196 624
+   W 38196 600
+   T 38196 230 55893 (Failed)
+Growth Index Fund: $128
+   D 38197 958
+   W 38197 600
+   T 38197 230 67332
+Value Fund: $1000
+   D 38198 540
+   W 38198 600 (Failed)
+   T 56431 230 38198(Failed)
+   T 98771 230 38198
+   T 67331 230 38198(Failed)
+   T 55891 230 38198(Failed)
+   T 22221 230 38198(Failed)
+   T 55551 230 38198
+   T 77901 230 38198(Failed)
+   T 11341 230 38198(Failed)
+   T 38198 230 98771
+   T 23331 230 38198
+Value Stock Index: $329
+   D 38199 559
+   W 38199 600 (Failed)
+   T 38199 230 56430
+Transaction History for Shirley Quach by fund.
+Money Market: $7
+   D 23330 123
+   T 23331 230 38198
+Prime Money Market: $0
+   D 23331 114
+   T 23331 230 38198
+Long-Term Bond: $0
+   D 23332 661
+   W 23332 600
+   T 23332 230 11347
+Short-Term Bond: $62
+   D 23333 231
+   T 23332 230 11347
+500 Index Fund: $151
+   D 23334 751
+   W 23334 600
+   T 23334 230 55555 (Failed)
+Capital Value Fund: $88
+   D 23335 918
+   W 23335 600
+   T 23335 230 22224
+Growth Equity Fund: $23
+   D 23336 853
+   W 23336 600
+   T 23336 230 55893
+Growth Index Fund: $188
+   D 23337 188
+   W 23337 600 (Failed)
+   T 23337 230 67332 (Failed)
+Value Fund: $159
+   D 23338 159
+   W 23338 600 (Failed)
+   T 23338 230 98771 (Failed)
+Value Stock Index: $1331
+   D 23339 181
+   W 23339 600 (Failed)
+   T 56430 230 23339(Failed)
+   T 98770 230 23339
+   T 67330 230 23339(Failed)
+   T 55890 230 23339
+   T 22220 230 23339
+   T 55550 230 23339
+   T 77900 230 23339(Failed)
+   T 11340 230 23339
+   T 38190 230 23339
+   T 23339 230 56430
+Transaction History for Shayan Raouf Money Market: $1380
+   D 56430 349
+   W 56430 349
+   T 98779 230 56430
+   T 67339 230 56430
+   T 55899 230 56430(Failed)
+   T 22229 230 56430(Failed)
+   T 55559 230 56430
+   T 77909 230 56430
+   T 11349 230 56430(Failed)
+   T 38199 230 56430
+   T 23339 230 56430
+Transaction History for Shayan Raouf Prime Money Market: $207
+   D 56431 458
+   W 56430 251
+Transaction History for Shayan Raouf Long-Term Bond: $0
+   D 56432 656
+   W 56432 600
+   T 56432 230 11347
+Transaction History for Shayan Raouf Short-Term Bond: $214
+   D 56433 988
+   W 56433 600
+   T 56432 230 11347
+Transaction History for Shayan Raouf 500 Index Fund: $325
+   D 56434 555
+   W 56434 600 (Failed)
+   T 56434 230 55555
+Transaction History for Shayan Raouf Capital Value Fund: $166
+   D 56435 166
+   W 56435 600 (Failed)
+   T 56435 230 22224 (Failed)
+Transaction History for Shayan Raouf Growth Equity Fund: $178
+   D 56436 778
+   W 56436 600
+   T 56436 230 55893 (Failed)
+Transaction History for Shayan Raouf Growth Index Fund: $159
+   D 56437 159
+   W 56437 600 (Failed)
+   T 56437 230 67332 (Failed)
+Transaction History for Shayan Raouf Value Fund: $31
+   D 56438 631
+   W 56438 600
+   T 56438 230 98771 (Failed)
+Transaction History for Shayan Raouf Value Stock Index: $344
+   D 56439 944
+   W 56439 600
+Transaction History for Josh Trygg Money Market: $0
+   D 98770 398
+   W 98770 398
+   T 98770 230 23339
+Transaction History for Josh Trygg Prime Money Market: $695
+   D 98771 667
+   W 98770 202
+   T 56438 230 98771(Failed)
+   T 98770 230 23339
+   T 98771 230 38198
+   T 67338 230 98771(Failed)
+   T 55898 230 98771(Failed)
+   T 22228 230 98771(Failed)
+   T 55558 230 98771
+   T 77908 230 98771(Failed)
+   T 11348 230 98771
+   T 38198 230 98771
+   T 23338 230 98771(Failed)
+Transaction History for Josh Trygg Long-Term Bond: $119
+   D 98772 533
+   T 98772 230 11347
+   T 98773 230 77906
+Transaction History for Josh Trygg Short-Term Bond: $0
+   D 98773 46
+   T 98773 230 77906
+Transaction History for Josh Trygg 500 Index Fund: $18
+   D 98774 618
+   W 98774 600
+   T 98774 230 55555 (Failed)
+Transaction History for Josh Trygg Capital Value Fund: $2
+   D 98775 2
+   W 98775 600 (Failed)
+   T 98775 230 22224 (Failed)
+Transaction History for Josh Trygg Growth Equity Fund: $18
+   D 98776 248
+   W 98776 600 (Failed)
+   T 98776 230 55893
+Transaction History for Josh Trygg Growth Index Fund: $159
+   D 98777 759
+   W 98777 600
+   T 98777 230 67332 (Failed)
+Transaction History for Josh Trygg Value Fund: $237
+   D 98778 237
+   W 98778 600 (Failed)
+Transaction History for Josh Trygg Value Stock Index: $200
+   D 98779 430
+   W 98779 600 (Failed)
+   T 98779 230 56430
+Transaction History for Kevin Roger Money Market: $0
+   D 67330 544
+   W 67330 544
+Transaction History for Kevin Roger Prime Money Market: $122
+   D 67331 778
+   W 67330 56
+   W 67331 600
+Transaction History for Kevin Roger Long-Term Bond: $1169
+   D 67332 619
+   W 67332 600
+   T 56437 230 67332(Failed)
+   T 98777 230 67332(Failed)
+   T 55897 230 67332
+   T 22227 230 67332(Failed)
+   T 55557 230 67332
+   T 77907 230 67332
+   T 11347 230 67332
+   T 38197 230 67332
+   T 23337 230 67332(Failed)
+Transaction History for Kevin Roger Short-Term Bond: $24
+   D 67333 624
+   W 67333 600
+Transaction History for Kevin Roger 500 Index Fund: $164
+   D 67334 164
+   W 67334 600 (Failed)
+   T 67334 230 55555 (Failed)
+Transaction History for Kevin Roger Capital Value Fund: $33
+   D 67335 33
+   W 67335 600 (Failed)
+   T 67335 230 22224 (Failed)
+Transaction History for Kevin Roger Growth Equity Fund: $279
+   D 67336 509
+   W 67336 600 (Failed)
+   T 67336 230 55893
+Transaction History for Kevin Roger Growth Index Fund: $560
+   D 67337 560
+   W 67337 600 (Failed)
+Transaction History for Kevin Roger Value Fund: $33
+   D 67338 633
+   W 67338 600
+   T 67338 230 98771 (Failed)
+Transaction History for Kevin Roger Value Stock Index: $56
+   D 67339 286
+   W 67339 600 (Failed)
+   T 67339 230 56430
+Transaction History for Gabby Nikolova Money Market: $0
+   D 55890 208
+   T 55890 230 23339
+Transaction History for Gabby Nikolova Prime Money Market: $208
+   D 55891 230
+   T 55890 230 23339
+Transaction History for Gabby Nikolova Long-Term Bond: $0
+   D 55892 51
+   W 55892 51
+   T 55892 230 11347
+Transaction History for Gabby Nikolova Short-Term Bond: $992
+   D 55893 621
+   W 55892 549
+   T 56436 230 55893(Failed)
+   T 98776 230 55893
+   T 67336 230 55893
+   T 55892 230 11347
+   T 55893 230 77906
+   T 22226 230 55893(Failed)
+   T 55556 230 55893
+   T 77906 230 55893
+   T 11346 230 55893
+   T 38196 230 55893(Failed)
+   T 23336 230 55893
+Transaction History for Gabby Nikolova 500 Index Fund: $102
+   D 55894 932
+   W 55894 600
+   T 55894 230 55555
+Transaction History for Gabby Nikolova Capital Value Fund: $145
+   D 55895 745
+   W 55895 600
+   T 55895 230 22224 (Failed)
+Transaction History for Gabby Nikolova Growth Equity Fund: $275
+   D 55896 275
+   W 55896 600 (Failed)
+Transaction History for Gabby Nikolova Growth Index Fund: $149
+   D 55897 379
+   W 55897 600 (Failed)
+   T 55897 230 67332
+Transaction History for Gabby Nikolova Value Fund: $24
+   D 55898 624
+   W 55898 600
+   T 55898 230 98771 (Failed)
+Transaction History for Gabby Nikolova Value Stock Index: $86
+   D 55899 686
+   W 55899 600
+   T 55899 230 56430 (Failed)
+Transaction History for Kyle Alfke Money Market: $101
+   D 22220 331
+   T 22220 230 23339
+Transaction History for Kyle Alfke Prime Money Market: $13
+   D 22221 13
+Transaction History for Kyle Alfke Long-Term Bond: $0
+   D 22222 493
+   W 22222 493
+Transaction History for Kyle Alfke Short-Term Bond: $112
+   D 22223 819
+   W 22222 107
+   W 22223 600
+Transaction History for Kyle Alfke 500 Index Fund: $696
+   D 22224 606
+   W 22224 600
+   T 56435 230 22224(Failed)
+   T 98775 230 22224(Failed)
+   T 67335 230 22224(Failed)
+   T 55895 230 22224(Failed)
+   T 22224 230 55555 (Failed)
+   T 55555 230 22224
+   T 77905 230 22224(Failed)
+   T 11345 230 22224
+   T 38195 230 22224(Failed)
+   T 23335 230 22224
+Transaction History for Kyle Alfke Capital Value Fund: $3
+   D 22225 603
+   W 22225 600
+Transaction History for Kyle Alfke Growth Equity Fund: $8
+   D 22226 8
+   W 22226 600 (Failed)
+   T 22226 230 55893 (Failed)
+Transaction History for Kyle Alfke Growth Index Fund: $108
+   D 22227 108
+   W 22227 600 (Failed)
+   T 22227 230 67332 (Failed)
+Transaction History for Kyle Alfke Value Fund: $59
+   D 22228 59
+   W 22228 600 (Failed)
+   T 22228 230 98771 (Failed)
+Transaction History for Kyle Alfke Value Stock Index: $126
+   D 22229 726
+   W 22229 600
+   T 22229 230 56430 (Failed)
+Transaction History for Ben Rogojon Money Market: $0
+   D 55550 339
+   W 55550 339
+   T 55550 230 23339
+Transaction History for Ben Rogojon Prime Money Market: $108
+   D 55551 829
+   W 55550 261
+   T 55550 230 23339
+   T 55551 230 38198
+Transaction History for Ben Rogojon Long-Term Bond: $0
+   D 55552 515
+   W 55552 515
+   T 55552 230 11347
+Transaction History for Ben Rogojon Short-Term Bond: $95
+   D 55553 640
+   W 55552 85
+   T 55552 230 11347
+   T 55553 230 77906
+Transaction History for Ben Rogojon 500 Index Fund: $198
+   D 55554 798
+   W 55554 600
+Transaction History for Ben Rogojon Capital Value Fund: $1409
+   D 55555 489
+   W 55555 600 (Failed)
+   T 56434 230 55555
+   T 98774 230 55555(Failed)
+   T 67334 230 55555(Failed)
+   T 55894 230 55555
+   T 22224 230 55555(Failed)
+   T 55555 230 22224
+   T 77904 230 55555
+   T 11344 230 55555
+   T 38194 230 55555
+   T 23334 230 55555(Failed)
+Transaction History for Ben Rogojon Growth Equity Fund: $74
+   D 55556 304
+   W 55556 600 (Failed)
+   T 55556 230 55893
+Transaction History for Ben Rogojon Growth Index Fund: $181
+   D 55557 411
+   W 55557 600 (Failed)
+   T 55557 230 67332
+Transaction History for Ben Rogojon Value Fund: $172
+   D 55558 402
+   W 55558 600 (Failed)
+   T 55558 230 98771
+Transaction History for Ben Rogojon Value Stock Index: $69
+   D 55559 899
+   W 55559 600
+   T 55559 230 56430
+Transaction History for Widad Machmouchi Money Market: $135
+   D 77900 841
+   W 77900 600
+   W 77901 106
+Transaction History for Widad Machmouchi Prime Money Market: $0
+   D 77901 494
+   W 77901 494
+Transaction History for Widad Machmouchi Long-Term Bond: $0
+   D 77902 711
+   W 77902 600
+   T 77902 230 11347
+Transaction History for Widad Machmouchi Short-Term Bond: $229
+   D 77903 948
+   W 77903 600
+   T 77902 230 11347
+Transaction History for Widad Machmouchi 500 Index Fund: $85
+   D 77904 315
+   W 77904 600 (Failed)
+   T 77904 230 55555
+Transaction History for Widad Machmouchi Capital Value Fund: $67
+   D 77905 667
+   W 77905 600
+   T 77905 230 22224 (Failed)
+Transaction History for Widad Machmouchi Growth Equity Fund: $1103
+   D 77906 783
+   W 77906 600
+   T 56433 230 77906(Failed)
+   T 98773 230 77906
+   T 67333 230 77906(Failed)
+   T 55893 230 77906
+   T 22223 230 77906(Failed)
+   T 55553 230 77906
+   T 77906 230 55893
+   T 11343 230 77906
+   T 38193 230 77906
+   T 23333 230 77906(Failed)
+Transaction History for Widad Machmouchi Growth Index Fund: $46
+   D 77907 876
+   W 77907 600
+   T 77907 230 67332
+Transaction History for Widad Machmouchi Value Fund: $123
+   D 77908 123
+   W 77908 600 (Failed)
+   T 77908 230 98771 (Failed)
+Transaction History for Widad Machmouchi Value Stock Index: $326
+   D 77909 556
+   W 77909 600 (Failed)
+   T 77909 230 56430
+Transaction History for Rayyan Jabber Money Market: $0
+   D 11340 794
+   W 11340 600
+   T 11340 230 23339
+Transaction History for Rayyan Jabber Prime Money Market: $136
+   D 11341 772
+   W 11341 600
+   T 11340 230 23339
+Transaction History for Rayyan Jabber Long-Term Bond: $130
+   D 11342 857
+   W 11342 600
+   T 11343 230 77906
+Transaction History for Rayyan Jabber Short-Term Bond: $0
+   D 11343 103
+   T 11343 230 77906
+Transaction History for Rayyan Jabber 500 Index Fund: $333
+   D 11344 563
+   W 11344 600 (Failed)
+   T 11344 230 55555
+Transaction History for Rayyan Jabber Capital Value Fund: $301
+   D 11345 531
+   W 11345 600 (Failed)
+   T 11345 230 22224
+Transaction History for Rayyan Jabber Growth Equity Fund: $217
+   D 11346 447
+   W 11346 600 (Failed)
+   T 11346 230 55893
+Transaction History for Rayyan Jabber Growth Index Fund: $1819
+   D 11347 439
+   W 11347 600 (Failed)
+   T 56432 230 11347
+   T 98772 230 11347
+   T 67332 230 11347(Failed)
+   T 55892 230 11347
+   T 22222 230 11347(Failed)
+   T 55552 230 11347
+   T 77902 230 11347
+   T 11347 230 67332
+   T 38192 230 11347
+   T 23332 230 11347
+Transaction History for Rayyan Jabber Value Fund: $68
+   D 11348 898
+   W 11348 600
+   T 11348 230 98771
+Transaction History for Rayyan Jabber Value Stock Index: $167
+   D 11349 167
+   W 11349 600 (Failed)
+   T 11349 230 56430 (Failed)
+Transaction History for Omar Halabieh Money Market: $0
+   D 38190 715
+   W 38190 600
+   T 38190 230 23339
+Transaction History for Omar Halabieh Prime Money Market: $162
+   D 38191 277
+   T 38190 230 23339
+Transaction History for Omar Halabieh Long-Term Bond: $0
+   D 38192 244
+   W 38192 244
+   T 38192 230 11347
+Transaction History for Omar Halabieh Short-Term Bond: $46
+   D 38193 862
+   W 38192 356
+   T 38192 230 11347
+   T 38193 230 77906
+Transaction History for Omar Halabieh 500 Index Fund: $234
+   D 38194 464
+   W 38194 600 (Failed)
+   T 38194 230 55555
+Transaction History for Omar Halabieh Capital Value Fund: $94
+   D 38195 694
+   W 38195 600
+   T 38195 230 22224 (Failed)
+Transaction History for Omar Halabieh Growth Equity Fund: $24
+   D 38196 624
+   W 38196 600
+   T 38196 230 55893 (Failed)
+Transaction History for Omar Halabieh Growth Index Fund: $128
+   D 38197 958
+   W 38197 600
+   T 38197 230 67332
+Transaction History for Omar Halabieh Value Fund: $1000
+   D 38198 540
+   W 38198 600 (Failed)
+   T 56431 230 38198(Failed)
+   T 98771 230 38198
+   T 67331 230 38198(Failed)
+   T 55891 230 38198(Failed)
+   T 22221 230 38198(Failed)
+   T 55551 230 38198
+   T 77901 230 38198(Failed)
+   T 11341 230 38198(Failed)
+   T 38198 230 98771
+   T 23331 230 38198
+Transaction History for Omar Halabieh Value Stock Index: $329
+   D 38199 559
+   W 38199 600 (Failed)
+   T 38199 230 56430
+Transaction History for Shirley Quach Money Market: $7
+   D 23330 123
+   T 23331 230 38198
+Transaction History for Shirley Quach Prime Money Market: $0
+   D 23331 114
+   T 23331 230 38198
+Transaction History for Shirley Quach Long-Term Bond: $0
+   D 23332 661
+   W 23332 600
+   T 23332 230 11347
+Transaction History for Shirley Quach Short-Term Bond: $62
+   D 23333 231
+   T 23332 230 11347
+Transaction History for Shirley Quach 500 Index Fund: $151
+   D 23334 751
+   W 23334 600
+   T 23334 230 55555 (Failed)
+Transaction History for Shirley Quach Capital Value Fund: $88
+   D 23335 918
+   W 23335 600
+   T 23335 230 22224
+Transaction History for Shirley Quach Growth Equity Fund: $23
+   D 23336 853
+   W 23336 600
+   T 23336 230 55893
+Transaction History for Shirley Quach Growth Index Fund: $188
+   D 23337 188
+   W 23337 600 (Failed)
+   T 23337 230 67332 (Failed)
+Transaction History for Shirley Quach Value Fund: $159
+   D 23338 159
+   W 23338 600 (Failed)
+   T 23338 230 98771 (Failed)
+Transaction History for Shirley Quach Value Stock Index: $1331
+   D 23339 181
+   W 23339 600 (Failed)
+   T 56430 230 23339(Failed)
+   T 98770 230 23339
+   T 67330 230 23339(Failed)
+   T 55890 230 23339
+   T 22220 230 23339
+   T 55550 230 23339
+   T 77900 230 23339(Failed)
+   T 11340 230 23339
+   T 38190 230 23339
+   T 23339 230 56430
+
+Processing Done. Final Balances
+Rayyan Jabber Account ID: 1134
+	Money Market: $0
+	Prime Money Market: $136
+	Long-Term Bond: $130
+	Short-Term Bond: $0
+	500 Index Fund: $333
+	Capital Value Fund: $301
+	Growth Equity Fund: $217
+	Growth Index Fund: $1819
+	Value Fund: $68
+	Value Stock Index: $167
+
+Kyle Alfke Account ID: 2222
+	Money Market: $101
+	Prime Money Market: $13
+	Long-Term Bond: $0
+	Short-Term Bond: $112
+	500 Index Fund: $696
+	Capital Value Fund: $3
+	Growth Equity Fund: $8
+	Growth Index Fund: $108
+	Value Fund: $59
+	Value Stock Index: $126
+
+Shirley Quach Account ID: 2333
+	Money Market: $7
+	Prime Money Market: $0
+	Long-Term Bond: $0
+	Short-Term Bond: $62
+	500 Index Fund: $151
+	Capital Value Fund: $88
+	Growth Equity Fund: $23
+	Growth Index Fund: $188
+	Value Fund: $159
+	Value Stock Index: $1331
+
+Omar Halabieh Account ID: 3819
+	Money Market: $0
+	Prime Money Market: $162
+	Long-Term Bond: $0
+	Short-Term Bond: $46
+	500 Index Fund: $234
+	Capital Value Fund: $94
+	Growth Equity Fund: $24
+	Growth Index Fund: $128
+	Value Fund: $1000
+	Value Stock Index: $329
+
+Ben Rogojon Account ID: 5555
+	Money Market: $0
+	Prime Money Market: $108
+	Long-Term Bond: $0
+	Short-Term Bond: $95
+	500 Index Fund: $198
+	Capital Value Fund: $1409
+	Growth Equity Fund: $74
+	Growth Index Fund: $181
+	Value Fund: $172
+	Value Stock Index: $69
+
+Gabby Nikolova Account ID: 5589
+	Money Market: $0
+	Prime Money Market: $208
+	Long-Term Bond: $0
+	Short-Term Bond: $992
+	500 Index Fund: $102
+	Capital Value Fund: $145
+	Growth Equity Fund: $275
+	Growth Index Fund: $149
+	Value Fund: $24
+	Value Stock Index: $86
+
+Shayan Raouf Account ID: 5643
+	Money Market: $1380
+	Prime Money Market: $207
+	Long-Term Bond: $0
+	Short-Term Bond: $214
+	500 Index Fund: $325
+	Capital Value Fund: $166
+	Growth Equity Fund: $178
+	Growth Index Fund: $159
+	Value Fund: $31
+	Value Stock Index: $344
+
+Kevin Roger Account ID: 6733
+	Money Market: $0
+	Prime Money Market: $122
+	Long-Term Bond: $1169
+	Short-Term Bond: $24
+	500 Index Fund: $164
+	Capital Value Fund: $33
+	Growth Equity Fund: $279
+	Growth Index Fund: $560
+	Value Fund: $33
+	Value Stock Index: $56
+
+Widad Machmouchi Account ID: 7790
+	Money Market: $135
+	Prime Money Market: $0
+	Long-Term Bond: $0
+	Short-Term Bond: $229
+	500 Index Fund: $85
+	Capital Value Fund: $67
+	Growth Equity Fund: $1103
+	Growth Index Fund: $46
+	Value Fund: $123
+	Value Stock Index: $326
+
+Josh Trygg Account ID: 9877
+	Money Market: $0
+	Prime Money Market: $695
+	Long-Term Bond: $119
+	Short-Term Bond: $0
+	500 Index Fund: $18
+	Capital Value Fund: $2
+	Growth Equity Fund: $18
+	Growth Index Fund: $159
+	Value Fund: $237
+	Value Stock Index: $200
+
+
